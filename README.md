@@ -1,6 +1,5 @@
 # Twitter-Disinformation-Study
-Twitter-Disinformation-Study
-# 📊 Analyse de Sentiment sur Tweets Dépressifs  
+Twitter-Disinformation-Study# 📊 Analyse de Sentiment sur Tweets Dépressifs  
 # 📊 Sentiment Analysis on Depressive Tweets
 
 ## 🇫🇷 Description
@@ -36,3 +35,25 @@ The Colab notebook includes the following steps:
 * 💬 Prediction tests on custom examples
 
 This project provides a solid foundation for automatic emotion detection applications and can be extended for mental health monitoring on social media.
+
+---
+
+## 🇫🇷 Utilisation / Usage
+
+1. Ouvrir le notebook dans [Google Colab](https://colab.research.google.com/)  
+2. Exécuter toutes les cellules dans l’ordre  
+3. Explorer les visualisations et les résultats d’évaluation  
+4. Modifier ou ajouter des phrases de test pour vérifier les prédictions  
+
+---
+
+## 🇫🇷 Prérequis / Requirements
+
+* Python 3.x  
+* Librairies Python :  
+  `pandas`, `numpy`, `scikit-learn`, `nltk`, `textblob`, `matplotlib`, `seaborn`, `wordcloud`  
+
+Installer via pip :
+
+```bash
+pip install pandas numpy scikit-learn nltk textblob matplotlib seaborn wordcloud
